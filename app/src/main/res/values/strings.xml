@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PhoneCallApp</string>
+    <string name="num_mohamed">01153372278</string>
+    <string name="num_ahmeed">01153372278</string>">
+    <string name="num_ahmed_Mohamed">010_307_662</string>
+    <string name="num_yousef_Mohamed">0103_56_62</string>
+    <string name="num_DAD">0103_07_662</string>
+    <string name="num_My_sister">010_36_52</string>
+
+
+    <string name="name_My_sister">Sara</string>
+    <string name="name_My_frind">mohamed</string>
+    <string name="name_My_frind2">ahmed</string>
+    <string name="name_My_frind3">mohamed</string>
+    <string name="name_My_grandfather">ahmed</string>
+    <string name="name_My_son">issmail</string>
+
+</resources>
